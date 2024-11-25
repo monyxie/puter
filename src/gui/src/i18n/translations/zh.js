@@ -347,24 +347,21 @@ const zh = {
         login2fa_recovery_back: '后退',
         login2fa_recovery_placeholder: '********',
 
-		// ***********************************
-		// Missing translations
-		// ***********************************
-        "change": undefined, // In English: "Change"
-        "clock_visibility": undefined, // In English: "Clock Visibility"
-        "plural_suffix": undefined, // In English: "s"
-        "reading": undefined, // In English: "Reading %strong%"
-        "writing": undefined, // In English: "Writing %strong%"
-        "unzipping": undefined, // In English: "Unzipping %strong%"
-        "sequencing": undefined, // In English: "Sequencing %strong%"
-        "zipping": undefined, // In English: "Zipping %strong%"
-        "Editor": undefined, // In English: "Editor"
-        "Viewer": undefined, // In English: "Viewer"
-        "People with access": undefined, // In English: "People with access"
-        "Share With…": undefined, // In English: "Share With…"
-        "Owner": undefined, // In English: "Owner"
-        "You can't share with yourself.": undefined, // In English: "You can't share with yourself."
-        "This user already has access to this item": undefined, // In English: "This user already has access to this item"
+        "change": '更改', // In English: "Change"
+        "clock_visibility": '时间可见性', // In English: "Clock Visibility"
+        "plural_suffix": '', // In English: "s"
+        "reading": '正在读取 %strong%', // In English: "Reading %strong%"
+        "writing": '正在写入 %strong%', // In English: "Writing %strong%"
+        "unzipping": '正在解压缩 %strong%', // In English: "Unzipping %strong%"
+        "sequencing": '正在排序 %strong%', // In English: "Sequencing %strong%"
+        "zipping": '正在压缩 %strong%', // In English: "Zipping %strong%"
+        "Editor": '编辑器', // In English: "Editor"
+        "Viewer": '查看器', // In English: "Viewer"
+        "People with access": '有访问权限的人', // In English: "People with access"
+        "Share With…": '与他人分享…', // In English: "Share With…"
+        "Owner": '所有者', // In English: "Owner"
+        "You can't share with yourself.": '不能分享给你自己', // In English: "You can't share with yourself."
+        "This user already has access to this item": '该用户已经拥有访问此项目的权限了', // In English: "This user already has access to this item"
 
     }
 };
